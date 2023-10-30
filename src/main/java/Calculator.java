@@ -37,6 +37,7 @@ public class Calculator {
         System.out.println("Добавленные товары:");
         System.out.print(Goods.list);
         System.out.println("===================");
+        sc.close();
     }
 
     // Расчет итоговой суммы

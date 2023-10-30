@@ -24,5 +24,6 @@ public class Main {
                 sc.next();
             }
         }
+        sc.close();
     }
 }
